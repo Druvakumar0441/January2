@@ -1,3 +1,6 @@
 this is file8 created from git and pushing from local repository
 again remodified without reseting the file8
+<<<<<<< HEAD
 reagain modified but this time the modification is going on with all the permissions
+=======
+>>>>>>> 084d4ee6ced02da15d9fa408734c4c198b5cfef9
